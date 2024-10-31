@@ -1,0 +1,21 @@
+#plotmypostsandtweets_canvas{ width:400px; height:300px; border:solid #F1F1F1 1px; }
+table#plotmypostsandtweets_list{ float:left; clear:both; width:95%; }
+
+form#edit_tweet ul li { float:left; clear:both; }
+form#edit_tweet ul label{ width:150px; float:left; clear:none; }
+form#edit_tweet ul input{ float:left; clear:none; }
+input#txt_tweet{ width:580px; }
+li.hdn_id{ display:none; }
+li.txt_tweet{}
+li.txt_date{}
+li.txt_image img{ margin-left:10px; width:50px; height:50px; background:#EAEAEA; }
+li.txt_location input{ margin-right:10px; }
+li.plotmypostsandtweets_canvas{ clear:none; margin-right:10px; }
+form#edit_tweet ul li.txt_lat label, form#edit_tweet ul li.txt_lon label{ width:50px; }
+form#edit_tweet ul li.txt_lat input, form#edit_tweet ul li.txt_lon input{ width:50px; }
+
+form#edit_tweet ul li.txt_lat, 
+form#edit_tweet ul li.txt_lon,
+form#edit_tweet ul li.chk_show,
+form#edit_tweet ul li.btn_cancel{ clear:none; }
+form#edit_tweet ul li.btn_cancel input{ clear:both; }

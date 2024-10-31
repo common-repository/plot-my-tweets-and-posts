@@ -1,0 +1,7 @@
+#plotmypostsandtweets_canvas{ width:600px; height:400px; }
+#plotmypostsandtweets_canvas img{ max-width:none; }
+div.plotmypostsandtweets_popup{ width:300px; }
+div.plotmypostsandtweets_popup img { margin:5px 10px 0 0; float:left; width:100px; height:100px; background:#EAEAEA; border:solid #787878 2px; }
+div.plotmypostsandtweets_popup b { float:left; }
+div.plotmypostsandtweets_popup b.with_img { width:180px; }
+div.plotmypostsandtweets_popup p { float:left; clear:both; margin:0; }
